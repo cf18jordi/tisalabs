@@ -1,0 +1,4 @@
+services:
+  web:
+    image: "registry.gitlab.com/tisalabs/agent9/speedtest:speed"
+version: "2.1"
