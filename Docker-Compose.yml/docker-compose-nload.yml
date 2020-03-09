@@ -1,0 +1,5 @@
+services:
+  web:
+    image: "registry.gitlab.com/tisalabs/agent9/nload:nload"
+version: "2.1"
+
